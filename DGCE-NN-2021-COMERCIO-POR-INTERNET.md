@@ -114,7 +114,7 @@ La Dirección General de Comercio Electrónico (DGCE), del Ministerio de Comerci
 
 9. Las condiciones mínimas que deberán cumplirse para el cese de actividades de un administrador de plataformas tecnológicas;
 
-10.Las garantías necesarias para la operación y continuidad del servicio; 11. 12.Cualquier otro procedimiento o directriz que considere necesaria para el correcto funcionamiento del servicio ofrecido a través de la plataforma tecnológica.
+10. Las garantías necesarias para la operación y continuidad del servicio; 11. 12.Cualquier otro procedimiento o directriz que considere necesaria para el correcto funcionamiento del servicio ofrecido a través de la plataforma tecnológica.
 
 Cuando la Dirección General de Comercio Electrónico contemple adoptar, reformar o revocar los estándares, requisitos mínimos y procedimientos, deberá publicar un aviso convocando a un proceso de consulta pública en dos diarios de circulación nacional y la publicación en la página web de la DGCE, con no menos de treinta (30) días de antelación a la fecha en que se propone adoptar o modificar los requerimientos exigidos y deberá además, enviar el aviso dentro del plazo antes señalado a las empresas que gestionen plataformas tecnológicas. Toda persona interesada podrá presentar a la Dirección General por escrito comentarios, memorandos y propuestas sobre la modificación a los requisitos que se contempla adoptar. Concluido este proceso, la resolución contentiva de estos estándares y procedimientos entrará a regir una vez sea promulgada en Gaceta Oficial.
 
